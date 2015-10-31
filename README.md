@@ -4,7 +4,7 @@ Developing this game to increase my Python skill.
 
 To run:
 ```
-python /Python/battleshit.py
+python /Python/battleship.py
 ```
 
 # Rules
