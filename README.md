@@ -24,3 +24,4 @@ python /Python/battleship.py
 - improve code to use classes (OOP)
 - file export/import
 - UI
+- change code structure 
