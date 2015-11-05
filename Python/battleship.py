@@ -21,7 +21,8 @@ def game():
 
     def counter(count):
         print "You tried: %s of 5 times" % count
-
+        
+    #all texts
     row_col = random_row_col()
     ship_row = random_row(board)
     ship_col = random_col(board)
