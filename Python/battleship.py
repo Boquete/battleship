@@ -1,6 +1,6 @@
 from random import randint
 
-
+#make class
 def game():
     board = []
     for x in range(5):
@@ -22,7 +22,7 @@ def game():
     def counter(count):
         print "You tried: %s of 5 times" % count
         
-    #all texts
+    #all text
     row_col = random_row_col()
     ship_row = random_row(board)
     ship_col = random_col(board)
